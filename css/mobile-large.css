@@ -1,0 +1,44 @@
+/* Navigation Bar  */
+#nav-bar{
+    flex-direction: column;
+}
+
+#nav-bar > ul > li {
+    margin: auto 10px;
+}
+
+#nav-bar ul li a {
+    font-size: 10px;
+}
+
+/* Home Section  */
+#home {
+    height: 312px;
+}
+
+#home h2 {
+    font-size: 1.8rem;
+
+}
+
+#home p {
+    font-size: 0.6rem;
+    line-height: 0.9rem;
+    width: 330px;
+}
+
+/* Specialities section  */
+.food-item>img {
+    margin: 47px 11px
+}
+#specialities .desc h2{
+    font-size: 15px;
+}
+
+#specialities .desc p{
+    padding-top: unset;
+}
+
+#specialities .desc{
+    height: 144px;
+}

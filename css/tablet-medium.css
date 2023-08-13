@@ -1,0 +1,133 @@
+/* Navigation Bar  */
+.logo>img {
+    width: 84px;
+    margin-left: 10px;
+}
+
+/* Home Section  */
+#home {
+    height: 340px;
+}
+
+#home h2 {
+    font-size: 2.4rem;
+
+}
+
+#home p {
+    font-size: 0.75rem;
+    width: 435px;
+}
+
+/* Services Section  */
+#services {
+    margin: 15px auto;
+    padding-top: 14px;
+    height: 240px;
+}
+
+.container {
+    width: 426px;
+
+}
+
+.item h2 {
+    font-size: 18px;
+}
+
+.icon>img {
+    width: 48px;
+}
+
+/* Specialities section  */
+#specialities {
+    margin: 12px auto;
+    padding-top: 15px;
+}
+
+.food-item>img {
+    width: 75px;
+    margin: 18px
+}
+
+/* Order Now Section  */
+#order-now {
+    padding-top: 15px;
+}
+
+.product {
+    width: calc(100% / 2.4);
+}
+
+.product>.level {
+    padding: 5px 0;
+    font-size: 13px;
+}
+
+.product>h2 {
+    margin-top: 4px;
+    font-size: 14px;
+}
+
+.product img {
+    width: 200px;
+}
+
+.product>.button {
+    margin: 8px auto;
+    font-size: 12px;
+    padding: 2px 9px;
+}
+
+/* Bakery Video Section  */
+#bakery-video .heading {
+    font-size: 30px;
+}
+
+#bakery-video .sub-heading {
+    margin-top: 2px;
+    font-size: 14px;
+}
+
+.video {
+    margin: 10px;
+}
+
+.video>iframe {
+    max-width: 420px;
+    height: 215px;
+}
+
+
+/* Form section  */
+#subscribe .heading {
+    font-size: 24px;
+}
+
+#subscribe .sub-heading {
+    margin-top: 6px;
+    font-size: 14px;
+}
+
+
+/* Footer  */
+footer {
+    padding: 11px;
+}
+
+footer a {
+    padding: 5px;
+    font-size: 11px;
+}
+
+footer>span {
+    font-size: 0.8em;
+    margin: 2px;
+
+}
+
+/* Utility Classes  */
+.heading {
+    font-size: 24px;
+    padding: 14px;
+}

@@ -1,0 +1,56 @@
+/* Navigation Bar  */
+#nav-bar > ul > li {
+    margin: auto 4px;
+}
+
+#nav-bar ul li a {
+    padding: 1px 2px;
+}
+
+/* Home Section  */
+#home {
+    height: 361px;
+}
+
+/* Services Section  */
+#services {
+    height: 140px;
+}
+
+.container {
+    width: 254px;
+    padding: 10px;
+
+}
+.icon>img {
+    width: 31px;
+}
+
+/* Specialities section  */
+.grid {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#specialities .desc{
+    height: 223px;
+    margin-bottom: 12px;
+}
+
+.food-item>img {
+    display: block;
+    margin: 7px
+}
+
+#specialities .desc h2{
+    text-align: center;
+}
+
+#specialities .desc p{
+    text-align: justify;
+}
+
+/* Order Now Section  */
+.product img {
+    width: 115px;
+}
